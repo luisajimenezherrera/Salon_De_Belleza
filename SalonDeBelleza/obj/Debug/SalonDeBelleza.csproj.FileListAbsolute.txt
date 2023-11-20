@@ -1,0 +1,53 @@
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\bin\Debug\SalonDeBelleza.exe.config
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\bin\Debug\SalonDeBelleza.exe
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\bin\Debug\SalonDeBelleza.pdb
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.AssemblyReference.cache
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmAdministrador.resources
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.Properties.Resources.resources
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.GenerateResource.cache
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.CoreCompileInputs.cache
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.exe
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.pdb
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmClientes.resources
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmOpinion.resources
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmPrincipal.resources
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmProducto.resources
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmProfesional.resources
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmReservas.resources
+C:\Users\Carolina Álvarez\Desktop\VISUAL\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmSedes.resources
+C:\Users\Pc\Documents\SalonDeBelleza\bin\Debug\SalonDeBelleza.exe.config
+C:\Users\Pc\Documents\SalonDeBelleza\bin\Debug\SalonDeBelleza.exe
+C:\Users\Pc\Documents\SalonDeBelleza\bin\Debug\SalonDeBelleza.pdb
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmAdministrador.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmClientes.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmOpinion.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmPrincipal.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmProducto.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmProfesional.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmReservas.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmSedes.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.Properties.Resources.resources
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.exe
+C:\Users\Pc\Documents\SalonDeBelleza\obj\Debug\SalonDeBelleza.pdb
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\bin\Debug\SalonDeBelleza.exe.config
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\bin\Debug\SalonDeBelleza.exe
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\bin\Debug\SalonDeBelleza.pdb
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmAdministrador.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmClientes.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmOpinion.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmPrincipal.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmProducto.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmProfesional.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmReservas.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.frmSedes.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.Properties.Resources.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.exe
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\opcion trabajo final 2\SalonDeBelleza\obj\Debug\SalonDeBelleza.pdb
